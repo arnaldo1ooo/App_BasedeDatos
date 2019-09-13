@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">App_BasedeDatos</string>
+    <string name="et_codigo">Codigo</string>
+    <string name="et_descripcion">Descripcion</string>
+    <string name="et_precio">Precio</string>
+    <string name="btn_registrar">Registrar producto</string>
+    <string name="btn_buscar">Buscar producto</string>
+    <string name="btn_eliminar">Eliminar producto</string>
+    <string name="btn_modificar">Modificar producto</string>
+    <string name="tv_dolar">\$</string>
+</resources>
